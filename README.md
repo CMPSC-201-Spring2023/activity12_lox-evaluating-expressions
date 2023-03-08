@@ -1,4 +1,4 @@
-# Activity 12: Lox Typing
+# Activity 12: Lox Evaluating Expressions
 
 ## DUE: March 3 by 2:30pm
 
